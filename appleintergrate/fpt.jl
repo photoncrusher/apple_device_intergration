@@ -1,0 +1,11 @@
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"M\u00e0n h\u00ecnh:": "11 inch 2388 x 1668 Pixel, 12.9 inch 2732 x 2048 Pixel", "T\u1ea5m n\u1ec1n: ": " IPS LCD Liquid Retina HD (11 inch)/ XDR (12.9 inch), True Tone", "B\u1ed9 vi x\u1eed l\u00fd:": "Apple M1 8 nh\u00e2n", "B\u1ed9 nh\u1edb trong: ": "128GB, 256GB, 512GB, 1TB & 2TB", "RAM:": "8GB (128GB, 256GB, 512GB), 16GB (1TB, 2TB)", "Camera sau: ": "10MP + 12MP + TOF 3D LiDAR", "Camera tr\u01b0\u1edbc:": "12MP", "Th\u1ebb SIM:": "Nano SIM & eSIM (phi\u00ean b\u1ea3n Wi-Fi 5G)", "B\u1ea3o m\u1eadt:": "Nh\u1eadn di\u1ec7n khu\u00f4n m\u1eb7t, M\u1edf kho\u00e1 b\u1eb1ng m\u1eadt m\u00e3", "Tr\u1ecdng l\u01b0\u1ee3ng:": "466 - 470g (11 inch), 682 - 685g (12.9 inch)", "H\u1ec7 \u0111i\u1ec1u h\u00e0nh:": "iPadOS 14", "B\u1ea3o h\u00e0nh: ": "12 th\u00e1ng"}
+{"M\u00e0n h\u00ecnh:": "11 inch 2388 x 1668 Pixel, 12.9 inch 2732 x 2048 Pixel", "T\u1ea5m n\u1ec1n: ": " IPS LCD Liquid Retina HD (11 inch)/ XDR (12.9 inch), True Tone", "B\u1ed9 vi x\u1eed l\u00fd:": "Apple M1 8 nh\u00e2n", "B\u1ed9 nh\u1edb trong: ": "128GB, 256GB, 512GB, 1TB & 2TB", "RAM:": "8GB (128GB, 256GB, 512GB), 16GB (1TB, 2TB)", "Camera sau: ": "10MP + 12MP + TOF 3D LiDAR", "Camera tr\u01b0\u1edbc:": "12MP", "Th\u1ebb SIM:": "Nano SIM & eSIM (phi\u00ean b\u1ea3n Wi-Fi 5G)", "B\u1ea3o m\u1eadt:": "Nh\u1eadn di\u1ec7n khu\u00f4n m\u1eb7t, M\u1edf kho\u00e1 b\u1eb1ng m\u1eadt m\u00e3", "Tr\u1ecdng l\u01b0\u1ee3ng:": "466 - 470g (11 inch), 682 - 685g (12.9 inch)", "H\u1ec7 \u0111i\u1ec1u h\u00e0nh:": "iPadOS 14", "B\u1ea3o h\u00e0nh: ": "12 th\u00e1ng"}
+{"M\u00e0n h\u00ecnh:": "11 inch 2388 x 1668 Pixel, 12.9 inch 2732 x 2048 Pixel", "T\u1ea5m n\u1ec1n: ": " IPS LCD Liquid Retina HD (11 inch)/ XDR (12.9 inch), True Tone", "B\u1ed9 vi x\u1eed l\u00fd:": "Apple M1 8 nh\u00e2n", "B\u1ed9 nh\u1edb trong: ": "128GB, 256GB, 512GB, 1TB & 2TB", "RAM:": "8GB (128GB, 256GB, 512GB), 16GB (1TB, 2TB)", "Camera sau: ": "10MP + 12MP + TOF 3D LiDAR", "Camera tr\u01b0\u1edbc:": "12MP", "Th\u1ebb SIM:": "Nano SIM & eSIM (phi\u00ean b\u1ea3n Wi-Fi 5G)", "B\u1ea3o m\u1eadt:": "Nh\u1eadn di\u1ec7n khu\u00f4n m\u1eb7t, M\u1edf kho\u00e1 b\u1eb1ng m\u1eadt m\u00e3", "Tr\u1ecdng l\u01b0\u1ee3ng:": "466 - 470g (11 inch), 682 - 685g (12.9 inch)", "H\u1ec7 \u0111i\u1ec1u h\u00e0nh:": "iPadOS 14", "B\u1ea3o h\u00e0nh: ": "12 th\u00e1ng"}
